@@ -1,0 +1,25 @@
+{
+  "name": "randmoji",
+  "main": "lib/app.js",
+  "version": "1.0.0",
+  "description": "Get random emojis",
+  "repository": {
+    "url": "https://github.com/tobihrbr/randmoji.git",
+    "type": "git"
+  },
+  "keywords": [
+    "emoji",
+    "moji",
+    "random"
+  ],
+  "license": "MIT",
+  "author": "tobihrbr",
+  "scripts": {
+    "start": "node lib/app.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "emojis-list": "^2.1.0",
+    "randy": "^1.5.1"
+  }
+}
