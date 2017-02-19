@@ -19,7 +19,7 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "emojis-list": "^2.1.0",
+    "mojilist": "^1.0.0",
     "randy": "^1.5.1"
   }
 }
